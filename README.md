@@ -1,10 +1,10 @@
-##Clonar el repositorio donde corresponda.
+Clonar el repositorio donde corresponda.
 
-##Entrar en la carpeta del proyecto
-#cd react-test-lima-innovatio
+Entrar en la carpeta del proyecto
+cd react-test-lima-innovatio
 
-##Instalar las dependencias
-#npm install
+Instalar las dependencias
+npm install
 
 
 ##Una vez todo se haya instalado, solo deben agregar el APP_ID del api https://dummyapi.io/ en el archivo .env que se encuetra en la raiz del proyecto.
